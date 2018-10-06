@@ -1,5 +1,1 @@
-text from my pc<<<<<<< HEAD
 text from my pc
-=======
-from laptop
->>>>>>> 8516548f0c4c2944eb17b765e5fff4b19349fb82
