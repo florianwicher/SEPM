@@ -1,4 +1,4 @@
-text from my pc<<<<<<< HEAD
+<<<<<<< HEAD
 text from my pc
 =======
 from laptop
